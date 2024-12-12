@@ -30,7 +30,6 @@ body {
 }
 
 #links {
-    background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
     min-width: 300px;
     max-width: 675px;
     width: auto;
